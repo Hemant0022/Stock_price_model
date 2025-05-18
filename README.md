@@ -26,6 +26,17 @@ This project is a Streamlit-based web application that allows users to view hist
 
 ---
 
+--Requirements.txt:
+streamlit
+yfinance
+pandas
+numpy
+scikit-learn
+tensorflow
+matplotlib
+statsmodels
+
+
 # ⚙️ Installation
 
 1. Clone the repository:

@@ -30,16 +30,20 @@ This project is a Streamlit-based web application that allows users to view hist
 
 1. Clone the repository:
 
-   ```bash
+   ```terminal
    git clone https://github.com/Hemant0022/Stock_price_model.git
    cd Stock_price_model
    
 2. Installing the dependencies
+   ```terminal
    pip install -r requirements.txt
 
-3. Run with:
+4. Run with:
+   ```terminal
    streamlit run app.py
 
-4. Maintainance (Upgrading the dependencies result in better enhancements of the code):
+6. Maintainance (Upgrading the dependencies result in better enhancements of the code):
+   ```terminal
     pip install --upgrade -r requirements.txt
-Note: System must be connected to the internet for fetching stock data from yfinance.
+   
+## Note: System must be connected to the internet for fetching stock data from yfinance.

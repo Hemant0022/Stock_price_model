@@ -1,4 +1,4 @@
-# 📊 Indian Stock Price Prediction Web App
+# 📊 Indian Stock Price Prediction Web App(Streamlit)
 
 This project is a Streamlit-based web application that allows users to view historical and current stock data for Indian companies, along with predicted future prices using **LSTM**, **ARIMA**, and **ensemble models**.
 

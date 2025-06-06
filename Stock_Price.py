@@ -1,3 +1,4 @@
+# These are the libraries and frameworks that to be installed at the intialization
 import streamlit as st
 import yfinance as yf
 import pandas as pd
